@@ -6,3 +6,23 @@ border-radius: 15px;}
    
 .carousel-item{padding: 20px 40px;}
 .Hello{color:lightslategray;}
+.cat-1{
+    background-color: tomato;
+
+}
+.cat-2{
+    background-color: blue;
+
+}
+.cat-3{
+    background-color: blueviolet;
+}
+.cat-1, .cat-2 , .cat-3 {
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.categories h1{color: white;}
+
+
+}
+
